@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mittaladiti0601&label=Profile%20views&color=0e75b6&style=flat" alt="mittaladiti0601" /> </p>
 
-<img align="right" alt="Coding" width="400" padding=50 src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
 
 - 🔭 I’m currently working on **Learning new Tech such as AWS**
 
